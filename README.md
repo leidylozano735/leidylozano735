@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm system enginner and I’m currently working with python, react, laravel, angular.
 
 <!--
 **leidylozano735/leidylozano735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
